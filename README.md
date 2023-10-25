@@ -7,9 +7,15 @@
 Pequeno projeto de um controle financeiro. Com modulos de entradas, saidas e total. Projeto responsivo e tem adição e exclusão de itens. Bom para estudos, aprender e revisar alguns conceitos de react. Como, por exemplo, useEffect, useState. Os dados são armazenados no local storage.
 
 ##  🚀 Tecnologias usadas
+
 <li>React JS</li>
 <li>Styled Components</li>
-<li>React-icons</li>
+
+## 📚 CONHECIMENTOS:
+
+- [x] UseState e useEffect
+- [x] Aplicação de responsividade
+- [x] Biblioteca react-icons
 
 ## 📝 PENDÊNCIAS:
 
