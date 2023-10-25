@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-Pequeno projeto de um controle financeiro. Com modulos de entradas, saidas e total. Projeto responsivo e tem adição e exclusão de itens. Bom para estudos, aprender e revisar alguns conceitos de react. Como, por exemplo, useEffect, useState. Os dados são armazenados no local storage.
+Pequeno projeto de um controle financeiro simples. Com modulos de entradas, saidas e total. Tem adição e exclusão de itens. Bom para estudos, aprender e revisar alguns conceitos de react. Os dados são armazenados no local storage.
 
 ##  🚀 Tecnologias usadas
 
